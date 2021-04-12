@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.art{
+    margin: auto;
+}
+
+td {
+    height: 200px;
+    width: 100px;
+    border: 6px solid yellow;
+}
+#one {
+    background-color: #00bb00;
+}
+
+#two {
+    background-color: #0f1324
+}
+
+#three {
+    background-color: #0a2e64;
+}
+
+#four {
+    background-color: #0c8484;
+}
+
+#five {
+    background-color: #0c5460
+}
+
+
